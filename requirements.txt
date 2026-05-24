@@ -1,0 +1,4 @@
+flask==3.0.3
+Pillow==10.4.0
+numpy==1.26.4
+kaggle==1.6.17
